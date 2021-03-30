@@ -11,7 +11,7 @@ const assertArraysEqual = function(arrayOne, arrayTwo) {
   }
 };
 
-const without = function (source, itemsToRemove) {
+const without = function(source, itemsToRemove) {
   let newArray = [];
   
   // for each item in itemsToRemove, if item does NOT exist in source, add to new array
