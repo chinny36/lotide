@@ -1,5 +1,5 @@
 {
-  "name": "@chinny36/lotide",
+  "name": "@wjb8/lotide",
   "version": "1.0.0",
   "description": "Mini clone of Lodash",
   "main": "assertArraysEqual.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chinny36/lotide.git"
+    "url": "git+https://github.com/wjb8/lotide.git"
   },
   "keywords": [],
   "author": "W James Brown",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chinny36/lotide/issues"
+    "url": "https://github.com/wjb8/lotide/issues"
   },
-  "homepage": "https://github.com/chinny36/lotide#readme",
+  "homepage": "https://github.com/wjb8/lotide#readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^8.3.2"
